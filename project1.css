@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: rgb(108, 168, 224);
+   
+  }
+  
+  p {
+    color: white;
+  }
+  a {
+      color: red;
+  }
+  .img{
+    display: flex;
+    justify-content:space-around;
+  }
+  ul {
+    color:white;
+  }
+  ol{
+    color:white;
+  }
+  h2{
+    color: rgb(108, 168, 224);
+  }
